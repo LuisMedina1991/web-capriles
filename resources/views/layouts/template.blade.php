@@ -7,12 +7,9 @@
         <meta name="author" content="" />
         <title>CAPRILES</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/llantas.png" />
         <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="css/app.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
@@ -72,7 +69,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/AURUNZE.jpg" alt="..." />
+                            <img class="img-fluid" src="img/14,00-ROCKBUSTER.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -81,7 +78,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/GENCOTIRE.jpg" alt="..." />
+                            <img class="img-fluid" src="img/385-GRANDSTONE.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -90,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/11-20-PETLAS.jpg" alt="..." />
+                            <img class="img-fluid" src="img/20-5-25-ROCKBUSTER.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -99,7 +96,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/185-55-13-ROYALBLACK.jpg" alt="..." />
+                            <img class="img-fluid" src="img/R13-R14-CRUCEÑA.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -108,7 +105,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/225-65-17-MIKELING.jpg" alt="..." />
+                            <img class="img-fluid" src="img/R17-CRUCEÑA.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -117,7 +114,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/12C-AMAZON.jpg" alt="..." />
+                            <img class="img-fluid" src="img/R20-CRUCEÑA.jpg" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -162,8 +159,8 @@
                 <!-- Contact Section Form-->
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-xl-7">
-                        {{--
-                        <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                        
+                        <form id="contactForm" data-sb-form-api-token="a89c8eac-4eb6-4ae1-aa15-b62f868534f5">
                             <!-- Name input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="name" type="text" data-sb-validations="required" />
@@ -195,10 +192,8 @@
                             <!-- has successfully submitted-->
                             <div class="d-none" id="submitSuccessMessage">
                                 <div class="text-center mb-3">
-                                    <div class="fw-bolder">Form submission successful!</div>
-                                    To activate this form, sign up at
-                                    <br />
-                                    <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                                    <div class="fw-bolder">Gracias, tu mensaje ha sido enviado!</div>
+                                    Nuestro personal de ventas se pondra en contacto contigo
                                 </div>
                             </div>
                             <!-- Submit error message-->
@@ -209,29 +204,7 @@
                             <!-- Submit Button-->
                             <button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Enviar</button>
                         </form>
-                        --}}
-
-                        <form name="contact" method="POST" data-netlify="true">
-                            <p>
-                              <label>Your Name: <input type="text" name="name" /></label>   
-                            </p>
-                            <p>
-                              <label>Your Email: <input type="email" name="email" /></label>
-                            </p>
-                            <p>
-                              <label>Your Role: <select name="role[]" multiple>
-                                <option value="leader">Leader</option>
-                                <option value="follower">Follower</option>
-                              </select></label>
-                            </p>
-                            <p>
-                              <label>Message: <textarea name="message"></textarea></label>
-                            </p>
-                            <p>
-                              <button type="submit">Send</button>
-                            </p>
-                          </form>
-
+                        
                     </div>
                 </div>
             </div>
@@ -290,9 +263,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/AURUNZE.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/14,00-ROCKBUSTER.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4 font-weight-bold">Contenedor nuevo!!!
+                                        <br>
+                                        Llanta agricola/industrial RockBuster 14,00-24 12-5-80-18</p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
@@ -322,9 +297,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/GENCOTIRE.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/385-GRANDSTONE.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4 font-weight-bold">Recien llegada!!!
+                                        <br>
+                                        GrandStone 385/65R22.5 lisa, con garantia de por vida.
+                                    </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
@@ -354,9 +332,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/11-20-PETLAS.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/20-5-25-ROCKBUSTER.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4 font-weight-bold">Recien salida de contenedor!!!
+                                        <br>
+                                        Llanta agricola/industrial RockBuster 20-5-25
+                                    </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
@@ -386,9 +367,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/185-55-13-ROYALBLACK.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/R13-R14-CRUCEÑA.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Nueva marca de la mejor calidad!!!
+                                        <br>
+                                        175/70 aro 13, 175/65 aro 14, 185/70 aro 14.
+                                    </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
@@ -418,9 +402,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/225-65-17-MIKELING.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/R17-CRUCEÑA.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Nueva marca de la mejor calidad!!!
+                                        <br>
+                                        215/45 aro 17.
+                                    </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
@@ -450,9 +437,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/12C-AMAZON.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/R20-CRUCEÑA.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Nueva marca de la mejor calidad!!!
+                                        <br>
+                                        255/50 y 265/50 ambas en aro 20.
+                                    </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
@@ -466,13 +456,10 @@
         </div>
         
         <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <!-- * *                               SB Forms JS                               * *-->
-        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!--SB Forms JS-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
 </html>
