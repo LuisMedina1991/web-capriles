@@ -69,7 +69,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/14,00-ROCKBUSTER.jpg" alt="..." />
+                            <img class="img-fluid" src="img/315-80-22-5-BYCROOS-GALLETA-P.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -78,7 +78,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/385-GRANDSTONE.jpg" alt="..." />
+                            <img class="img-fluid" src="img/ARUNZE-OFERTA-20-PORCIENTO.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -96,7 +96,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/R13-R14-CRUCENA.jpg" alt="..." />
+                            <img class="img-fluid" src="img/185-70-13-CENTARA-N.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -105,7 +105,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/R17-CRUCENA.jpg" alt="..." />
+                            <img class="img-fluid" src="img/BF-GOODRICH-N.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -263,11 +263,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/14,00-ROCKBUSTER.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/315-80-22-5-BYCROOS-GALLETA-P.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Contenedor nuevo!!!
                                         <br>
-                                        Llanta agricola/industrial RockBuster 14,00-24 12-5-80-18</p>
+                                        Oferta hasta agotar stock!!!</p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
@@ -297,11 +297,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/385-GRANDSTONE.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/ARUNZE-OFERTA-20-PORCIENTO.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien llegada!!!
                                         <br>
-                                        GrandStone 385/65R22.5 lisa, con garantia de por vida.
+                                        Oferta hasta agotar stock!!!
                                     </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
@@ -336,7 +336,7 @@
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien salida de contenedor!!!
                                         <br>
-                                        Llanta agricola/industrial RockBuster 20-5-25
+                                        Oferta hasta agotar stock!!!
                                     </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
@@ -367,11 +367,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/R13-R14-CRUCENA.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/185-70-13-CENTARA-N.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Nueva marca de la mejor calidad!!!
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Mercaderia de la mejor calidad!!!
                                         <br>
-                                        175/70 aro 13, 175/65 aro 14, 185/70 aro 14.
+                                        185/70 R-13 Centara.
                                     </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
@@ -402,11 +402,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/R17-CRUCENA.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/BF-GOODRICH-N.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Nueva marca de la mejor calidad!!!
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Mercaderia de la mejor calidad!!!
                                         <br>
-                                        215/45 aro 17.
+                                        185/70 R-14, 205/55 R-16 BFGoodrich.
                                     </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
