@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>CAPRILES</title>
+        <title>IMPORTADORA CAPRILES</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/llantas.png" />
         <!-- Font Awesome icons (free version)-->
@@ -13,11 +13,11 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
-    <body id="page-top">
+    <body id="importadora-capriles">
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg bg-dark text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top">Importadora Capriles</a>
+                <a class="navbar-brand" href="#importadora-capriles">Importadora Capriles</a>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-danger text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -78,7 +78,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/ARUNZE-OFERTA-20-PORCIENTO.jpg" alt="..." />
+                            <img class="img-fluid" src="img/TRANSTONE-12R22,5.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -87,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/20-5-25-ROCKBUSTER.jpg" alt="..." />
+                            <img class="img-fluid" src="img/TRANSTONE-315-80R22,5.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -219,7 +219,7 @@
                         <p class="lead mb-0">
                             Zona Radial 19, 4to anillo
                             <br />
-                            Calle Curupau #4095
+                            Calle Curupau #4065
                         </p>
                     </div>
                     <!-- Footer Social Icons-->
@@ -297,7 +297,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/ARUNZE-OFERTA-20-PORCIENTO.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/TRANSTONE-12R22,5.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien llegada!!!
                                         <br>
@@ -332,7 +332,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/20-5-25-ROCKBUSTER.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/TRANSTONE-315-80R22,5.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien salida de contenedor!!!
                                         <br>
