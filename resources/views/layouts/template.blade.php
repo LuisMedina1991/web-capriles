@@ -69,7 +69,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/315-80-22-5-BYCROOS-GALLETA-P.jpg" alt="..." />
+                            <img class="img-fluid" src="img/CONTINENTAL-205-60R16.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -78,7 +78,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/TRANSTONE-12R22,5.jpg" alt="..." />
+                            <img class="img-fluid" src="img/MILEKING-225-65R17.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -87,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/TRANSTONE-315-80R22,5.jpg" alt="..." />
+                            <img class="img-fluid" src="img/AURUNZE-225-50-R18.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -96,7 +96,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/185-70-13-CENTARA-N.jpg" alt="..." />
+                            <img class="img-fluid" src="img/TRAXMAX-4.00-8.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -105,7 +105,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/BF-GOODRICH-N.jpg" alt="..." />
+                            <img class="img-fluid" src="img/AGRICOLA-6.00-12.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -114,7 +114,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/R20-CRUCENA.jpg" alt="..." />
+                            <img class="img-fluid" src="img/AGSTAR-8.3-24.jpg" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/315-80-22-5-BYCROOS-GALLETA-P.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/CONTINENTAL-205-60R16.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Contenedor nuevo!!!
                                         <br>
@@ -297,7 +297,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/TRANSTONE-12R22,5.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/MILEKING-225-65R17.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien llegada!!!
                                         <br>
@@ -332,7 +332,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/TRANSTONE-315-80R22,5.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/AURUNZE-225-50-R18.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien salida de contenedor!!!
                                         <br>
@@ -367,11 +367,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/185-70-13-CENTARA-N.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/TRAXMAX-4.00-8.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Mercaderia de la mejor calidad!!!
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!!
                                         <br>
-                                        185/70 R-13 Centara.
+                                        Mercaderia de la mejor calidad!!!
                                     </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
@@ -402,11 +402,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/BF-GOODRICH-N.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/AGRICOLA-6.00-12.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Mercaderia de la mejor calidad!!!
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!!
                                         <br>
-                                        185/70 R-14, 205/55 R-16 BFGoodrich.
+                                        Mercaderia de la mejor calidad!!!
                                     </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
@@ -437,11 +437,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/R20-CRUCENA.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/AGSTAR-8.3-24.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!! Nueva marca de la mejor calidad!!!
+                                    <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!!
                                         <br>
-                                        255/50 y 265/50 ambas en aro 20.
+                                        Mercaderia de la mejor calidad!!!
                                     </p>
                                     <button class="btn btn-danger" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
