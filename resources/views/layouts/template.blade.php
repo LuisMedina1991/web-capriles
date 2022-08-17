@@ -69,7 +69,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/295-80R22.5-GENCO-LISA.jpg" alt="..." />
+                            <img class="img-fluid" src="img/185-70R13 HAIDA.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -78,7 +78,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/6.00-9-ROCKBUSTER.jpg" alt="..." />
+                            <img class="img-fluid" src="img/315-80R22.5 JUMBO.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -87,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/12R22.5-TRUEFAST.jpg" alt="..." />
+                            <img class="img-fluid" src="img/155-65R13 HAIDA.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -96,7 +96,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/31x10-50R15-TRIANGLE.jpg" alt="..." />
+                            <img class="img-fluid" src="img/17.5-25 ROCKBUSTER.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -105,7 +105,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/12R22.5-GENCO-PT.jpg" alt="..." />
+                            <img class="img-fluid" src="img/315-70R22.5 DOUBLECOIN.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -114,7 +114,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/315-70R22.5-DOUBLECOIN-LISA.jpg" alt="..." />
+                            <img class="img-fluid" src="img/14.9-24-25 FORERUNNER.jpg" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/295-80R22.5-GENCO-LISA.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/185-70R13 HAIDA.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Contenedor nuevo!!!
                                         <br>
@@ -297,7 +297,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/6.00-9-ROCKBUSTER.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/315-80R22.5 JUMBO.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien llegada!!!
                                         <br>
@@ -332,7 +332,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/12R22.5-TRUEFAST.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/155-65R13 HAIDA.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Recien salida de contenedor!!!
                                         <br>
@@ -367,7 +367,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/31x10-50R15-TRIANGLE.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/17.5-25 ROCKBUSTER.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!!
                                         <br>
@@ -402,7 +402,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/12R22.5-GENCO-PT.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/315-70R22.5 DOUBLECOIN.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!!
                                         <br>
@@ -437,7 +437,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/315-70R22.5-DOUBLECOIN-LISA.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/14.9-24-25 FORERUNNER.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Nuevo contenedor en camino!!!
                                         <br>
