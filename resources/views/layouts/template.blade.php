@@ -69,7 +69,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/185-70R14-LONGWAY.jpg" alt="..." />
+                            <img class="img-fluid" src="img/GENCO-155-65R15.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -78,7 +78,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/14-FORERUNNER.jpg" alt="..." />
+                            <img class="img-fluid" src="img/MILEKING-195-65R15.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -87,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/ROCKBUSTER-6.00-9.jpg" alt="..." />
+                            <img class="img-fluid" src="img/DOUBLEKING-205-50R16.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -96,7 +96,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/225-65R17-MILEKING.jpg" alt="..." />
+                            <img class="img-fluid" src="img/ZEXTOUR-195R15.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -105,7 +105,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/11R22.5-GRANDSTONE.jpg" alt="..." />
+                            <img class="img-fluid" src="img/ZEXTOR-185-60R14.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -114,7 +114,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="img/155-65R13-KORYO.jpg" alt="..." />
+                            <img class="img-fluid" src="img/OFERTA-HAIDA.jpg" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://api.whatsapp.com/send?phone=+59171625947">
+                    <a class="btn btn-xl btn-outline-light" href="https://api.whatsapp.com/send?phone=59172127779">
                         <i class="fab fa-whatsapp me-2"></i>
                         Haz tu consulta!!
                     </a>
@@ -263,7 +263,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/185-70R14-LONGWAY.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/GENCO-155-65R15.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Hasta Agotar Stock!!!
                                         <br>
@@ -298,7 +298,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/14-FORERUNNER.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/MILEKING-195-65R15.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Hasta Agotar Stock!!!
                                         <br>
@@ -333,7 +333,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/ROCKBUSTER-6.00-9.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/DOUBLEKING-205-50R16.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Hasta Agotar Stock!!!
                                         <br>
@@ -368,7 +368,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/225-65R17-MILEKING.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/ZEXTOUR-195R15.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Hasta Agotar Stock!!!
                                         <br>
@@ -403,7 +403,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/11R22.5-GRANDSTONE.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/ZEXTOR-185-60R14.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Hasta Agotar Stock!!!
                                         <br>
@@ -438,7 +438,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="img/155-65R13-KORYO.jpg" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="img/OFERTA-HAIDA.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4 font-weight-bold">Hasta Agotar Stock!!!
                                         <br>
