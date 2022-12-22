@@ -124,7 +124,7 @@
         <section class="page-section bg-danger text-white mb-0" id="acerca_de_nosotros">
             <div class="container">
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">Nuestra Empresa</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white">Quien somos</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -133,8 +133,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Importadora lider en el mercado hace mas de 29 años. Estamos comprometidos a proveer productos de la mas alta calidad, atendiendo todos los requerimientos de nuestra estimada clientela.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Con Capriles todo marcha sobre ruedas. En nuestra empresa encontraras ofertas todos los dias y precios inigualables.</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">Somos Capriles. Importadora de llantas desde 1983. Contamos con variedad de medidas para el sector agricola, industrial y de transporte.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Trabajamos con tecnologia india, americana, japonesa y china. Con Capriles todo marcha sobre ruedas!!!</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
@@ -217,25 +217,23 @@
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Direccion</h4>
                         <p class="lead mb-0">
-                            Zona Radial 19, 4to anillo
+                            Radial 19, pasando una cuadra del 4to anillo
                             <br />
-                            Calle Curupau #4065
+                            Calle Curupau #4065, Santa Cruz de la Sierra, Bolivia
                         </p>
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Nuestras redes sociales</h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/profile.php?id=100087778116435&mibextid=ZbWKwL"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/LlantasCapriles"><i class="fab fa-fw fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.tiktok.com/@caprilesloficial1983?_t=8YL9oXgOsA1&_r=1"><i class="fab fa-fw fa-tiktok"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/p/CmZEL94tyad/?igshid=YmMyMTA2M2Y="><i class="fab fa-fw fa-instagram-square"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/importaciones-de-llantas-capriles-6166561b7/"><i class="fab fa-fw fa-linkedin-in"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
-                        <h4 class="text-uppercase mb-4">Nuestros proveedores</h4>
+                        <h4 class="text-uppercase mb-4">Tecnologia</h4>
                         <p class="lead mb-0">
-                            GeneralTire, GoodYear, BF-Goodrich, RoyalBlack, Viking, Dunlop, Wideway, Pirelli y muchos mas.
+                            India, Americana, Japonesa y China.
                         </p>
                     </div>
                 </div>
@@ -243,7 +241,7 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright &copy; Your Website 2021</small></div>
+            <div class="container"><small>Copyright &copy; Importadora Capriles</small></div>
         </div>
         <!-- Portfolio Modals-->
         <!-- Portfolio Modal 1-->
